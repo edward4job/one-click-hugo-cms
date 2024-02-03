@@ -5,4 +5,4 @@ title = "鴻運洗衣店"
 disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 
 [params]
-images = ["img/contact-us.png"]
+images = ["https://i.imgur.com/Z9iiz8d.png"]
