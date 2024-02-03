@@ -1,19 +1,18 @@
 ---
-title: "Contact"
-logo: "/img/logo.svg"
+title: 聯絡我們
+logo: /img/logo.svg
 contact_entries:
-  - heading: Location
-    text: "3153 Lynn Avenue, South San Francisco, California 94080"
-  - heading: Working hours
-    text: "Monday – Saturday: 9AM – 7PM We’re closed on Sundays"
+  - heading: 地點
+    text: 桃園市中壢區興仁里興仁路二段110號1樓
+  - heading: "營業時間:"
+    text: |
+      平日早上八點到晚上九點
+      疫情期間營業時間可能有所不同
 ---
+聯絡電話:
 
-We’d love to get in touch with you and hear your ideas and
-questions. We strive to grow and improve constantly and your feedback
-is valuable for us.
+03-4555-952
 
-<h3 class="f4 b lh-title mb2">How can I get…?</h3>
+0966-498-575
 
-You can also use the form below for any inquiries about coffee
-availability, monthly subscriptions and scheduling a 1-on-1 session
-with our baristas. Don’t be shy, drop us a line!
+聯絡信箱:hongyun.laundry@gmail.com
